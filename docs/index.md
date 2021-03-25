@@ -2,8 +2,8 @@
 layout: cv
 title: Jarrod Wise's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jarrod Wise
+Definitely not a prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,15 +16,15 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2015-2017`
+__North Idaho College__, Coeur d'Alene, ID
 
-- Full academic scholarship with 4.0 GPA
+- Studied in General education and graduated with my associates Degree
 
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.6 Major GPA
 
 
 ## Related Experience
