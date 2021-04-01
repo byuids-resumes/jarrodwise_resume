@@ -24,7 +24,7 @@ __North Idaho College__, Coeur d'Alene, ID
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.8 Major GPA
+- BS: Data Science - 3.8 Major GPA
 
 
 ## Related Experience
